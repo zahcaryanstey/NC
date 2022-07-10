@@ -11,3 +11,8 @@
 
 ## Pre_Process_Data.py
 <p> Python file for taking the IDEAS feature files and calculating the nucleus to cytoplasm ratio and creating a pandas data frame.
+
+  
+## Change_File_Name.py  
+<p> Python file for changing file names. 
+ 
