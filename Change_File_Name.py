@@ -18,7 +18,7 @@ def Change_Prefix(Prefix,folder,new_prefix): # function to change the prefix of 
             os.rename(path, newname)
 
 
-def Change_Suffix(Suffix,folder, new_suffix): # Function to change the suffix of the file name. Takes as input the suffix you want to chagne and the folder name
+def Change_Suffix(Suffix,folder, new_suffix): # Function to change the suffix of the file name. Takes as input the suffix you want to change and the folder name
     paths = (os.path.join(root, filename)
              for root, _, filenames in os.walk(folder)
              for filename in filenames)
