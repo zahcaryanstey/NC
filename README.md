@@ -16,3 +16,5 @@
 ## Change_File_Name.py  
 <p> Python file for changing file names. 
  
+## DataLoaders.py
+<p> Python file that contains the data loaders used for loading the data. This file contains dataloaders for single data set imaging flow cytometry, multiple data set imaging flow cytometry and Cytoimagenet. 
