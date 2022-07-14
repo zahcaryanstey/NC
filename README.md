@@ -25,5 +25,8 @@
 ## CNN.py 
 <p> Python file that contains the code for training, and validating our resnet models.
 
+## Config.py 
+<p> Python file that contains arg parse arguments that allow us to make changes to the neural network in the terminal, allowing us to write a shell script for running experiments in batches. 
+
 ## Three_Channel.sh
 <p> Shell file used to run batch  three channel experiments
