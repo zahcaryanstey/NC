@@ -21,3 +21,6 @@
 
 ## Data_Set_Table.py
 <p> Python file used for taking a pandas data frame and turning it into latex code so that it can be used in a latex doccumnet. 
+
+## Three_Channel.sh
+<p> Shell file used to run batch experiments, this file is for batch running the three channel experiments. 
