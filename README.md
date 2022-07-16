@@ -32,5 +32,7 @@
 <p> Shell file used to run batch  three channel experiments
 
 ## Three_Channel_Results_Validation
-<p> Folder that contains the saved csv files containing the results from the three channel experiments. 
+<p> Folder that contains the saved csv files containing the results from the three channel experiments evalulated on the validation set. 
 
+## Three_Channel_Results_Test
+<p> Folder that contains the saved csv files containing the results form the three channel experiments evaluated on the test set.
