@@ -30,3 +30,7 @@
 
 ## Three_Channel.sh
 <p> Shell file used to run batch  three channel experiments
+
+## Three_Channel_Results_Validation
+<p> Folder that contains the saved csv files containing the results from the three channel experiments. 
+
